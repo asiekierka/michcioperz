@@ -1,2 +1,2 @@
-# michcioperz
+# Michcioperz
 cloning @michcioperz made easy
